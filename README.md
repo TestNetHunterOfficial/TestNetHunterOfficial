@@ -1,3 +1,6 @@
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
+
 <h1 align="center">Welcome my profile Hunter 🎯</h1>
 <h3 align="center">Blockchain, Web3 Lover. An experienced computer programmer who has worked as a verifier node operator in many test networks.. Animal lover :)</h3>
 
