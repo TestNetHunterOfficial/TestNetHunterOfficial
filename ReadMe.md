@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=testnethunterofficial" alt="testnethunterofficial" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kripto_matik" target="blank"><img src="https://img.shields.io/twitter/follow/kripto_matik?logo=twitter&style=for-the-badge" alt="kripto_matik" /></a> </p>
-
 - 📫 How to reach me **onedarkblock@proton.me**
 
 <h3 align="left">Connect with me:</h3>
